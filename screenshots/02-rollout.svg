@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" fill="none">
+  <rect width="1600" height="900" fill="#071019"/>
+  <rect x="60" y="60" width="1480" height="780" rx="32" fill="#0F1B2B" stroke="#21364B"/>
+  <text x="100" y="124" fill="#8ECDF6" font-family="Segoe UI, Arial" font-size="20">ROLLOUT ACTIVITY</text>
+  <text x="100" y="174" fill="#FFFFFF" font-family="Georgia, serif" font-size="46">Weekly exposure and stage movement</text>
+  <polyline points="120,670 300,620 500,520 700,560 900,410 1100,340 1320,280" stroke="#7DD3FC" stroke-width="8" fill="none" stroke-linecap="round"/>
+  <line x1="120" y1="700" x2="1380" y2="700" stroke="#2A3B50" stroke-width="2"/>
+  <line x1="120" y1="620" x2="1380" y2="620" stroke="#1E2D41" stroke-width="2" stroke-dasharray="6 8"/>
+  <line x1="120" y1="520" x2="1380" y2="520" stroke="#1E2D41" stroke-width="2" stroke-dasharray="6 8"/>
+  <line x1="120" y1="420" x2="1380" y2="420" stroke="#1E2D41" stroke-width="2" stroke-dasharray="6 8"/>
+  <rect x="1010" y="118" width="470" height="204" rx="28" fill="#111E2F"/>
+  <text x="1044" y="170" fill="#95A7C4" font-family="Segoe UI, Arial" font-size="18">RELEASE NOTE</text>
+  <text x="1044" y="224" fill="#F5F7FB" font-family="Segoe UI, Arial" font-size="34" font-weight="700">Gradual rollouts are accelerating</text>
+  <text x="1044" y="264" fill="#F5F7FB" font-family="Segoe UI, Arial" font-size="34" font-weight="700">faster than guardrail review capacity.</text>
+</svg>

@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" fill="none">
+  <rect width="1600" height="900" fill="#061118"/>
+  <rect x="52" y="52" width="1496" height="796" rx="34" fill="#0C1726" stroke="#1E3147"/>
+  <rect x="92" y="96" width="730" height="322" rx="28" fill="url(#hero)"/>
+  <rect x="846" y="96" width="662" height="322" rx="28" fill="#101D2C" stroke="#24384E"/>
+  <text x="132" y="148" fill="#8ECDF6" font-family="Segoe UI, Arial" font-size="22" letter-spacing="4">FEATURE FLAG ROLLOUT STUDIO</text>
+  <text x="132" y="228" fill="#F5F7FB" font-family="Georgia, serif" font-size="58">Control staged releases,</text>
+  <text x="132" y="290" fill="#F5F7FB" font-family="Georgia, serif" font-size="58">guardrails, and kill switches</text>
+  <text x="132" y="352" fill="#F5F7FB" font-family="Georgia, serif" font-size="58">from one growth-grade studio.</text>
+  <text x="884" y="145" fill="#95A7C4" font-family="Segoe UI, Arial" font-size="20">EXECUTIVE SNAPSHOT</text>
+  <rect x="884" y="176" width="274" height="98" rx="22" fill="#111F2F"/>
+  <rect x="1178" y="176" width="274" height="98" rx="22" fill="#111F2F"/>
+  <rect x="884" y="292" width="274" height="98" rx="22" fill="#111F2F"/>
+  <rect x="1178" y="292" width="274" height="98" rx="22" fill="#111F2F"/>
+  <text x="912" y="216" fill="#94A9C6" font-family="Segoe UI, Arial" font-size="18">Active flags</text>
+  <text x="912" y="256" fill="#FFFFFF" font-family="Segoe UI, Arial" font-size="44" font-weight="700">48</text>
+  <text x="1206" y="216" fill="#94A9C6" font-family="Segoe UI, Arial" font-size="18">Gradual rollouts</text>
+  <text x="1206" y="256" fill="#FFFFFF" font-family="Segoe UI, Arial" font-size="44" font-weight="700">9</text>
+  <text x="912" y="332" fill="#94A9C6" font-family="Segoe UI, Arial" font-size="18">Kill switches</text>
+  <text x="912" y="372" fill="#FFFFFF" font-family="Segoe UI, Arial" font-size="44" font-weight="700">6</text>
+  <text x="1206" y="332" fill="#94A9C6" font-family="Segoe UI, Arial" font-size="18">Guardrail alerts</text>
+  <text x="1206" y="372" fill="#FFFFFF" font-family="Segoe UI, Arial" font-size="44" font-weight="700">4</text>
+  <rect x="92" y="450" width="1040" height="330" rx="28" fill="#0F1B2B" stroke="#23364A"/>
+  <rect x="1162" y="450" width="346" height="330" rx="28" fill="#0F1B2B" stroke="#23364A"/>
+  <text x="124" y="498" fill="#8ECDF6" font-family="Segoe UI, Arial" font-size="19">ROLLOUT ACTIVITY</text>
+  <text x="124" y="538" fill="#F5F7FB" font-family="Georgia, serif" font-size="38">Operator pressure is rising as launches</text>
+  <text x="124" y="580" fill="#F5F7FB" font-family="Georgia, serif" font-size="38">move from test to staged release.</text>
+  <polyline points="140,700 290,650 440,580 590,610 740,470 890,410" stroke="#7DD3FC" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <circle cx="140" cy="700" r="8" fill="#F59E0B"/>
+  <circle cx="290" cy="650" r="8" fill="#F59E0B"/>
+  <circle cx="440" cy="580" r="8" fill="#F59E0B"/>
+  <circle cx="590" cy="610" r="8" fill="#F59E0B"/>
+  <circle cx="740" cy="470" r="8" fill="#F59E0B"/>
+  <circle cx="890" cy="410" r="8" fill="#F59E0B"/>
+  <text x="1190" y="498" fill="#8ECDF6" font-family="Segoe UI, Arial" font-size="19">SEGMENT READINESS</text>
+  <rect x="1192" y="544" width="238" height="14" rx="7" fill="#223346"/>
+  <rect x="1192" y="544" width="196" height="14" rx="7" fill="#7DD3FC"/>
+  <rect x="1192" y="614" width="238" height="14" rx="7" fill="#223346"/>
+  <rect x="1192" y="614" width="133" height="14" rx="7" fill="#F59E0B"/>
+  <rect x="1192" y="684" width="238" height="14" rx="7" fill="#223346"/>
+  <rect x="1192" y="684" width="104" height="14" rx="7" fill="#C084FC"/>
+  <text x="1192" y="530" fill="#F5F7FB" font-family="Segoe UI, Arial" font-size="22">Enterprise traffic · 82%</text>
+  <text x="1192" y="600" fill="#F5F7FB" font-family="Segoe UI, Arial" font-size="22">SMB acquisition · 56%</text>
+  <text x="1192" y="670" fill="#F5F7FB" font-family="Segoe UI, Arial" font-size="22">Partner routes · 44%</text>
+  <defs>
+    <linearGradient id="hero" x1="92" y1="96" x2="822" y2="418" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#15293B"/>
+      <stop offset="1" stop-color="#0B1421"/>
+    </linearGradient>
+  </defs>
+</svg>

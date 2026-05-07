@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" fill="none">
+  <rect width="1600" height="900" fill="#061118"/>
+  <rect x="70" y="70" width="1460" height="760" rx="30" fill="#0F1B2B" stroke="#23364A"/>
+  <text x="110" y="130" fill="#8ECDF6" font-family="Segoe UI, Arial" font-size="20">FLAG PORTFOLIO</text>
+  <text x="110" y="182" fill="#FFFFFF" font-family="Georgia, serif" font-size="44">Active, paused, and rollback-sensitive launches</text>
+  <rect x="110" y="226" width="1380" height="96" rx="18" fill="#122234"/>
+  <rect x="110" y="340" width="1380" height="96" rx="18" fill="#122234"/>
+  <rect x="110" y="454" width="1380" height="96" rx="18" fill="#122234"/>
+  <rect x="110" y="568" width="1380" height="96" rx="18" fill="#122234"/>
+  <text x="146" y="282" fill="#FFFFFF" font-family="Segoe UI, Arial" font-size="26" font-weight="700">revenue_checkout_redesign</text>
+  <text x="146" y="396" fill="#FFFFFF" font-family="Segoe UI, Arial" font-size="26" font-weight="700">self_serve_trial_pricing</text>
+  <text x="146" y="510" fill="#FFFFFF" font-family="Segoe UI, Arial" font-size="26" font-weight="700">partner_referral_banner</text>
+  <text x="146" y="624" fill="#FFFFFF" font-family="Segoe UI, Arial" font-size="26" font-weight="700">identity_sso_upgrade</text>
+  <rect x="690" y="252" width="140" height="36" rx="18" fill="#173444"/>
+  <rect x="690" y="366" width="140" height="36" rx="18" fill="#3A2B17"/>
+  <rect x="690" y="480" width="140" height="36" rx="18" fill="#1A3B2B"/>
+  <rect x="690" y="594" width="140" height="36" rx="18" fill="#402130"/>
+  <text x="726" y="276" fill="#97E2FF" font-family="Segoe UI, Arial" font-size="18">Gradual</text>
+  <text x="732" y="390" fill="#FFC675" font-family="Segoe UI, Arial" font-size="18">Paused</text>
+  <text x="742" y="504" fill="#84E8BC" font-family="Segoe UI, Arial" font-size="18">Live</text>
+  <text x="724" y="618" fill="#FFB7C1" font-family="Segoe UI, Arial" font-size="18">Rollback</text>
+</svg>
