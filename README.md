@@ -80,7 +80,7 @@ flowchart LR
 ## Local Run
 
 ```powershell
-Set-Location "C:\Users\chaus\dev\repos\feature-flag-rollout-studio"
+cd feature-flag-rollout-studio
 npm install
 npm test
 npm run build
